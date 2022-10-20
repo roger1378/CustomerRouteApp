@@ -3,3 +3,8 @@
 ################################################################################
 
 /CustomerRouteTest/obj
+/CustomerRouteTest/bin/Debug/net6.0
+/.vs
+/CustomerRouteApp/.vs
+/CustomerRouteApp/bin/Debug/net6.0
+/CustomerRouteApp/obj
